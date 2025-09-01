@@ -46,7 +46,7 @@ The **LangChain Documentation Helper** is a sophisticated AI-powered web applica
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/emarco177/documentation-helper.git
+   git clone https://github.com/VedTholiya/Documentation-helper-with-RAG-in-Langchain.git
    cd documentation-helper
    ```
 
@@ -82,6 +82,7 @@ The **LangChain Documentation Helper** is a sophisticated AI-powered web applica
 | `PINECONE_API_KEY` | Your Pinecone API key for vector storage | ✅ |
 | `OPENAI_API_KEY` | Your OpenAI API key for LLM access | ✅ |
 | `TAVILY_API_KEY` | Your Tavily API key for documentation crawling and web search | ✅ |
+
 
 
 
